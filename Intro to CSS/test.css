@@ -24,7 +24,7 @@ li{
 }
 
 #header h1{
-
+    font-size:60px;font-family:"Passion One";color:#FFBC00;font-weight:bold;
 }
 
 #leftnav{
@@ -40,6 +40,7 @@ li{
 ul{
     list-style-type: none;
     padding-left: 0px;
+    padding-bottom: 8px;
 }
 
 #leftnav img{
@@ -61,6 +62,7 @@ ul{
     margin-bottom: 10px;
     border: solid 8px black;
     text-align:center;
+    padding: 15px;
 }
 
 #footer{
