@@ -1,9 +1,9 @@
 body{
-
+    background-color:#8E41D5
 }
 
 p{
-    font-size:60px;font-family:"Arial";color:#FFFFFF;font-weight:bold;
+    font-size:font-family:"Arial";color:#FFFFFF;font-weight:bold;
  
 }
 
@@ -48,7 +48,7 @@ li{
 }
 
 #Leftnav h3{
-
+    font-size:40px;font-family:"Passion One";color:#FFBC00;margin-bottom:0px;
 }
 
 ul{
