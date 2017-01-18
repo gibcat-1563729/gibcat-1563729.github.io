@@ -16,6 +16,7 @@ li{
 }
 
 #Header{
+    background-color: #8E41D5
     width: 500px;
     margin-left: auto;
     margin-right: auto;
@@ -29,6 +30,7 @@ li{
 }
 
 #Leftnav{
+    background-color: #8E41D5
     width: 400px;
     margin-left: auto;
     margin-right: auto;
@@ -57,6 +59,7 @@ ul{
 }
 
 #Content{
+    background-color: #8E41D5
     width: 700px;
     margin-left: auto;
     margin-right: auto;
@@ -67,6 +70,7 @@ ul{
 }
 
 #Footer{
+    background-color: #8E41D5
     width: 500px;
     margin-left: auto;
     margin-right: auto;
