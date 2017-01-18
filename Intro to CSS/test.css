@@ -3,11 +3,12 @@ body{
 }
 
 p{
-
+    font-size:60px;font-family:"Arial";color:#FFFFFF;font-weight:bold;
+ 
 }
 
 h3{
-
+        font-size:40px;font-family:"Passion One";color:#FFBC00;margin-bottom:0px;
 }
 
 li{
