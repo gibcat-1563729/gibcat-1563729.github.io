@@ -15,6 +15,10 @@ li{
 }
 
 #header{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
     border: solid 8px black;
 }
 
@@ -23,7 +27,11 @@ li{
 }
 
 #leftnav{
-
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
 }
 
 #leftnav img{
@@ -39,9 +47,17 @@ li{
 }
 
 #content{
-
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
 }
 
 #footer{
-
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
 }
