@@ -38,12 +38,6 @@ li{
     text-align:center;
 }
 
-ul{
-    list-style-type: none;
-    padding-left: 0px;
-    padding-bottom: 8px;
-}
-
 #Leftnav img{
 
 }
@@ -54,6 +48,12 @@ ul{
 
 #Leftnav h3{
 
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+    padding-bottom: 8px;
 }
 
 #Content{
