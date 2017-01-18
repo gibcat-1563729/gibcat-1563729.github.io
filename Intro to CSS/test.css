@@ -36,6 +36,7 @@ li{
     border: solid 8px black;
     float:left;
     text-align:center;
+    padding-bottom: 8px;
 }
 
 #Leftnav img{
@@ -53,7 +54,6 @@ li{
 ul{
     list-style-type: none;
     padding-left: 0px;
-    padding-bottom: 8px;
 }
 
 #Content{
