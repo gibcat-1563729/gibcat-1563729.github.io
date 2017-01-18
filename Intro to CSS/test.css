@@ -20,6 +20,7 @@ li{
     margin-right: auto;
     margin-bottom: 10px;
     border: solid 8px black;
+    text-align:center;
 }
 
 #header h1{
@@ -32,6 +33,13 @@ li{
     margin-right: auto;
     margin-bottom: 10px;
     border: solid 8px black;
+    float:left;
+    text-align:center;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
 }
 
 #leftnav img{
@@ -52,6 +60,7 @@ li{
     margin-right: auto;
     margin-bottom: 10px;
     border: solid 8px black;
+    text-align:center;
 }
 
 #footer{
@@ -60,4 +69,10 @@ li{
     margin-right: auto;
     margin-bottom: 10px;
     border: solid 8px black;
+    text-align:center;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
 }
