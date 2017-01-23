@@ -4,7 +4,6 @@ body{
 
 p{
     color:white;font-family:"Arial";font-weight:bold;
- 
 }
 
 h3{
@@ -26,7 +25,10 @@ li{
 }
 
 #Header h1{
-    font-size:60px;font-family:"Passion One";color:#FFBC00;font-weight:bold;
+    font-size:60px;
+    font-family:"Passion One";
+    color:#FFBC00;
+    font-weight:bold;
 }
 
 #Leftnav{
@@ -51,11 +53,6 @@ li{
 
 #Leftnav h3{
     font-size:40px;font-family:"Passion One";color:#FFBC00;margin-bottom:0px;
-}
-
-ul{
-    list-style-type: none;
-    padding-left: 0px;
 }
 
 #Content{
@@ -83,4 +80,9 @@ ul{
 ul{
     list-style-type: none;
     padding-left: 0px;
+}
+
+a{ 
+    color:white;font-size:24px;
+    font-weight:bold;
 }
